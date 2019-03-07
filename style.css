@@ -1,0 +1,38 @@
+body{	background-image: url(img/basket.jpg);}
+
+h1{		color: #d279a4;
+		font-size: 35px;
+		text-align: center;
+		font-family: Arial;
+		background-color: #ccf2ff;
+		border:5px dotted #ff9900; }
+
+h2{		color:#b30000;
+		font-style: italic;
+		text-align: left;
+		font-family: Berlin Sans FB Demi;}
+
+p{		color: yellow;
+		font-size: 20px;
+		border: 5px double #ff9900;
+		border-width: 10px; 
+		text-align: left;
+		font-family: Arial Rounded MT Bold;
+		background-color: red; }
+
+img{	border-style:dashed;
+		border-color:#FFFF00; 
+		margin-left: 250px;
+		margin-right: 250px;}
+
+table {	margin-left: 250px;
+		margin-right: 250px;
+  		border-collapse: collapse;
+		width: 50%;					}	
+
+table, td, th { background-color: #009933;
+				color: white ;
+  				border: 2px solid white; width: 50%;
+ 				font-size: 20px;
+ 				font-family: Arial;
+									}
